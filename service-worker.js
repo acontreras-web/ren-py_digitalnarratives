@@ -1,4 +1,4 @@
-var cacheName = 'adianarenpy_4class';
+var cacheName = 'buying-a-cd-at-the-cd-store-';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
